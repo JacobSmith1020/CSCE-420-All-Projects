@@ -1,0 +1,142 @@
+iterations = 1 clauses = 29
+resolving clauses (or O1Y) and (or (not O1Y) (or C1Y C1B))
+resolvent = (or C1Y C1B)
+iterations = 1 clauses = 29
+resolving clauses (or L1W) and (or (not L1W) (not C1W))
+resolvent = (or (not C1W))
+iterations = 1 clauses = 29
+resolving clauses (or L1W) and (or (not L1W) (not C1W))
+resolvent = (or (not C1W))
+iterations = 1 clauses = 29
+resolving clauses (or O2W) and (or (not O2W) (or C2W C2B))
+resolvent = (or C2W C2B)
+iterations = 1 clauses = 29
+resolving clauses (or L2Y) and (or (not L2Y) (not C2Y))
+resolvent = (or (not C2Y))
+iterations = 1 clauses = 29
+resolving clauses (or L2Y) and (or (not L2Y) (not C2Y))
+resolvent = (or (not C2Y))
+iterations = 1 clauses = 29
+resolving clauses (or O3Y) and (or (not O3Y) (or C3Y C3B))
+resolvent = (or C3Y C3B)
+iterations = 1 clauses = 29
+resolving clauses (or L3B) and (or (not L3B) (not C3B))
+resolvent = (or (not C3B))
+iterations = 1 clauses = 29
+resolving clauses (or L3B) and (or (not L3B) (not C3B))
+resolvent = (or (not C3B))
+iterations = 1 clauses = 29
+resolving clauses (or (not O2W) (or C2W C2B)) and (not C2W)
+resolvent = (or (not O2W) C2W C2B C2W)
+iterations = 1 clauses = 29
+resolving clauses (or (not C2W) (not (or C1W C3W))) and (not C2W)
+resolvent = (or (not C1W))
+iterations = 2 clauses = 40
+resolving clauses (or O1Y) and (or (not O1Y) (or C1Y C1B))
+resolvent = (or C1Y C1B)
+iterations = 2 clauses = 40
+resolving clauses (or L1W) and (or (not L1W) (not C1W))
+resolvent = (or (not C1W))
+iterations = 2 clauses = 40
+resolving clauses (or L1W) and (or (not L1W) (not C1W))
+resolvent = (or (not C1W))
+iterations = 2 clauses = 40
+resolving clauses (or O2W) and (or (not O2W) (or C2W C2B))
+resolvent = (or C2W C2B)
+iterations = 2 clauses = 40
+resolving clauses (or O2W) and (or (not O2W) C2W C2B C2W)
+resolvent = (or C2W C2B C2W)
+iterations = 2 clauses = 40
+resolving clauses (or L2Y) and (or (not L2Y) (not C2Y))
+resolvent = (or (not C2Y))
+iterations = 2 clauses = 40
+resolving clauses (or L2Y) and (or (not L2Y) (not C2Y))
+resolvent = (or (not C2Y))
+iterations = 2 clauses = 40
+resolving clauses (or O3Y) and (or (not O3Y) (or C3Y C3B))
+resolvent = (or C3Y C3B)
+iterations = 2 clauses = 40
+resolving clauses (or L3B) and (or (not L3B) (not C3B))
+resolvent = (or (not C3B))
+iterations = 2 clauses = 40
+resolving clauses (or L3B) and (or (not L3B) (not C3B))
+resolvent = (or (not C3B))
+iterations = 2 clauses = 40
+resolving clauses (or (not O1Y) (or C1Y C1B)) and (or C1Y C1B)
+resolvent = (or (not O1Y) C1Y C1B C1Y C1B)
+iterations = 2 clauses = 40
+resolving clauses (or (not O2W) (or C2W C2B)) and (not C2W)
+resolvent = (or (not O2W) C2W C2B C2W)
+iterations = 2 clauses = 40
+resolving clauses (or (not O2W) (or C2W C2B)) and (or C2W C2B)
+resolvent = (or (not O2W) C2W C2B C2W C2B)
+iterations = 2 clauses = 40
+resolving clauses (or (not O2W) (or C2W C2B)) and (or (not O2W) C2W C2B C2W)
+resolvent = (or (not O2W) C2W C2W C2B C2W)
+iterations = 2 clauses = 40
+resolving clauses (or (not L3B) (not C3B)) and (or C3Y C3B)
+resolvent = (or (not L3B) C3Y)
+iterations = 2 clauses = 40
+resolving clauses (or (not O3Y) (or C3Y C3B)) and (or C3Y C3B)
+resolvent = (or (not O3Y) C3Y C3B C3Y C3B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C2W) (not (or C1W C3W))) and (not C2W)
+resolvent = (or (not C1W))
+iterations = 2 clauses = 40
+resolving clauses (or (not C2W) (not (or C1W C3W))) and (or C2W C2B)
+resolvent = (or (not C1W) C2B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C2W) (not (or C1W C3W))) and (or (not O2W) C2W C2B C2W)
+resolvent = (or C2B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C1Y) (not (or C2Y C3Y))) and (or C1Y C1B)
+resolvent = (or (not C2Y) C1B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (not (or C2Y C1Y))) and (or C3Y C3B)
+resolvent = (or (not C2Y) C3B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C1B) (not (or C2B C3B))) and (or C1Y C1B)
+resolvent = (or (not C2B))
+iterations = 2 clauses = 40
+resolving clauses (or (not C2B) (not (or C1B C3B))) and (or C2W C2B)
+resolvent = (or (not C1B))
+iterations = 2 clauses = 40
+resolving clauses (or (not C2B) (not (or C1B C3B))) and (or (not O2W) C2W C2B C2W)
+resolvent = (or (not C1B) (not O2W) C2W)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3B) (not (or C2B C1B))) and (or C3Y C3B)
+resolvent = (or (not C2B))
+iterations = 2 clauses = 40
+resolving clauses (or (not L3B) (not C3B)) and (or C3Y C3B)
+resolvent = (or (not L3B) C3Y)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (or C1W C1B)) and (or C3Y C3B)
+resolvent = (or C1W C1B C3B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (or C1W C2W)) and (or C3Y C3B)
+resolvent = (or C1W C2W C3B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (or C2B C1B)) and (or C2W C2B)
+resolvent = (or (not C3Y) C2B C1B C2W C2B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (or C2B C1B)) and (or C3Y C3B)
+resolvent = (or C2B C1B C3B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (or C2B C1B)) and (or (not O2W) C2W C2B C2W)
+resolvent = (or (not C3Y) C2B C1B (not O2W) C2W C2B C2W)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (or C2B C2W)) and (or C2W C2B)
+resolvent = (or (not C3Y) C2B C2W C2W C2B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (or C2B C2W)) and (or C3Y C3B)
+resolvent = (or C2B C2W C3B)
+iterations = 2 clauses = 40
+resolving clauses (or (not C3Y) (or C2B C2W)) and (or (not O2W) C2W C2B C2W)
+resolvent = (or (not C3Y) C2B C2W (not O2W) C2W C2B C2W)
+iterations = 2 clauses = 40
+resolving clauses (or C3Y C3B) and (or (not C3B))
+resolvent = (or C3Y)
+iterations = 2 clauses = 40
+resolving clauses (or C3Y C3B) and (or (not C3B))
+resolvent = (or C3Y)
+0
